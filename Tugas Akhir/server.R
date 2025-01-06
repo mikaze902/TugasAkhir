@@ -1,5 +1,6 @@
 server <- function(input, output) {
-  
+
+  print("Hello World"),
   ##Import data
   data_ku <- reactive({
     
