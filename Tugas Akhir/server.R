@@ -62,7 +62,8 @@ server <- function(input, output) {
   
   
   
-  
+  print("hello world"),
+  }
   
   
   
